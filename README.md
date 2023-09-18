@@ -89,7 +89,7 @@ I created scripts **Instagram** and **Threads** for learning purposes. Misuse of
 
 ### Screenshots
 
-![Data/result.txt](https://github.com/sidiqbrewstreet/Instagram/blob/main/Data/result.jpg)
+![Data/results.txt](https://github.com/sidiqbrewstreet/Instagram/blob/main/Data/results.jpg)
 
 ##
 
