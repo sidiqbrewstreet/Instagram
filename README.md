@@ -1,5 +1,5 @@
 # Instagram And Threads
-#Multi Brute Force Premium
+# Multi Brute Force Premium
 I created scripts **Instagram** and **Threads** for learning purposes. Misuse of Tools I am not responsible as a author if something happens, it is entirely borne by the user
 
 <p align="left"><img src="Data/Instagram.jpg"/></p>
