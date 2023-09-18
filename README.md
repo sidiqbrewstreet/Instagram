@@ -11,7 +11,7 @@ I created scripts Instagram and thread for learning purposes. Misuse of Tools I 
 ##
 
 ### Description
-**Instagram And Threads** is a python script that functions to carry out login attempts by guessing passwords, apart from that this script is my first project.  You can use LicenseKey by contacting us for a trial [LicenseKey](https://wa.me/+6285951168437), and you can also use the free script on [Instagram](https://github.com/sidiqbrewstreet/Crack-  ig) this only works 1 method not the same as this.
+**Instagram And Threads** is a python script that functions to carry out login attempts by guessing passwords, apart from that this script is my first project.  You can use LicenseKey by contacting us for a trial [LicenseKey](https://wa.me/+6285951168437) and you can also use the free script on [Instagram](https://github.com/sidiqbrewstreet/Crack-ig) this only works 1 method not the same as this.
 
 ##
   
@@ -54,8 +54,8 @@ I created scripts Instagram and thread for learning purposes. Misuse of Tools I 
 ### Not Getting Results?
 
 - The target you entered is not good or the password they use is a combination of special characters.
-  - You don't play **"Airplane Mode"** it is recommended to activate at 200 usernames.
-  - Incorrect password selection.  Use the recommended password **Automatic** or number **01**.
+- You don't play **"Airplane Mode"** it is recommended to activate at 200 usernames.
+- Incorrect password selection.  Use the recommended password **Automatic** or number **01**.
   
 ### Open Checkpoint Results?
 
