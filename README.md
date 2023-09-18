@@ -1,5 +1,6 @@
-# Threads Brute Force Premium - From Indonesian
-I created scripts Instagram and thread for learning purposes. Misuse of Tools I am not responsible as a author if something happens, it is entirely borne by the user
+# Instagram And Threads
+#Multi Brute Force Premium
+I created scripts **Instagram** and **Threads** for learning purposes. Misuse of Tools I am not responsible as a author if something happens, it is entirely borne by the user
 
 <p align="left"><img src="Data/Instagram.jpg"/></p>
 
@@ -11,7 +12,7 @@ I created scripts Instagram and thread for learning purposes. Misuse of Tools I 
 ##
 
 ### Description
-**Instagram And Threads** is a python script that functions to carry out login attempts by guessing passwords, apart from that this script is my first project.  You can use LicenseKey by contacting us for a trial [LicenseKey](https://wa.me/+6285951168437) and you can also use the free script on [Instagram](https://github.com/sidiqbrewstreet/Crack-ig) this only works 1 method not the same as this.
+**Instagram** And **Threads** is a python script that functions to carry out login attempts by guessing passwords, apart from that this script is my first project.  You can use LicenseKey by contacting us for a trial [LicenseKey](https://wa.me/+6285951168437) and you can also use the free script on [Instagram](https://github.com/sidiqbrewstreet/Crack-ig) this only works 1 method not the same as this.
 
 ##
   
