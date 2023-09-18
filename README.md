@@ -17,8 +17,11 @@ I created scripts **Instagram** and **Threads** for learning purposes. Misuse of
   
 ### Login has 2 options 
 
+- For the initial display you will be directed to **Login** and **Convert Cookies** to change cookies as the preferred login for logging in.
 -  for the **"CSRFTOKEN"** cookie only applies to Instagram and applies to all methods.
 - for the **"IGT"** cookie only applies to Threads and applies to all methods
+
+![Data/hasil.txt](https://github.com/sidiqbrewstreet/Instagram/blob/main/Data/hasil.jpg)
 
 ##
   
@@ -49,7 +52,6 @@ I created scripts **Instagram** and **Threads** for learning purposes. Misuse of
 - Use good methods like : **Instagram Apps or Threads Apps.**
 - Noted for now only new accounts and small follower accounts are successful.
 
-![Data/hasil.txt](https://github.com/sidiqbrewstreet/Instagram/blob/main/Data/hasil.jpg)
 
 ### Not Getting Results?
 
