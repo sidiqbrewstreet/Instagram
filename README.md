@@ -34,7 +34,6 @@ I created scripts **Instagram** and **Threads** for learning purposes. Misuse of
    pkg install git python-pip 
    git clone https://github.com/sidiqbrewstreet/Instagram
    cd Instagram
-   python -m pip install --upgrade pip
    python -m pip install -r requirements.txt
    python Run.py
   ```
